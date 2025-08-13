@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>MechanikaDesign.WinForms.UI.ColorPicker</id>
+    <version>1.0.0</version>
+    <title>Mechanika Design Color Picker Controls</title>
+    <authors>Warren Galyen</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <projectUrl>https://github.com/FantasyTeddy/ColorPickerLibrary</projectUrl>
+    <description>A collection of Windows Forms color picker controls for .NET Framework</description>
+    <copyright>Copyright © 2015 Mechanika Design</copyright>
+    <tags>WinForms ColorPicker</tags>
+  </metadata>
+</package>
