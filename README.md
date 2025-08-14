@@ -1,4 +1,6 @@
-## WinForms Color Picker Controls
+# WinForms Color Picker Controls
+
+[![NuGet](https://img.shields.io/nuget/v/MechanikaDesign.WinForms.UI.ColorPicker)](https://www.nuget.org/packages/MechanikaDesign.WinForms.UI.ColorPicker/)
 
 A collection of Windows Forms color picker controls for .NET Framework, including a color wheel, color hexagon, 2D color box, and vertical slider. A demo app shows the controls in action.
 
