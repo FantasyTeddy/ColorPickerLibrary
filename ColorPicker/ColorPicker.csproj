@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net462</TargetFramework>
+    <TargetFrameworks>net462;net6.0-windows</TargetFrameworks>
     <OutputType>Library</OutputType>
     <RootNamespace>MechanikaDesign.WinForms.UI.ColorPicker</RootNamespace>
     <UseWindowsForms>true</UseWindowsForms>
