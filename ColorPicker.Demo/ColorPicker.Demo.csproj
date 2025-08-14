@@ -81,7 +81,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ColorBox2D\ColorPicker.csproj">
+    <ProjectReference Include="..\ColorPicker\ColorPicker.csproj">
       <Project>{38F99682-D013-4AE3-8334-4BF492A11FF9}</Project>
       <Name>ColorPicker</Name>
     </ProjectReference>
