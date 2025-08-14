@@ -3,9 +3,10 @@
   <PropertyGroup>
     <TargetFramework>net462</TargetFramework>
     <OutputType>WinExe</OutputType>
-    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <UseWindowsForms>true</UseWindowsForms>
     <ImportWindowsDesktopTargets>true</ImportWindowsDesktopTargets>
+    <AssemblyTitle>Color Picker Controls Demonstration</AssemblyTitle>
+    <Copyright>Copyright © 2015 Mechanika Design</Copyright>
   </PropertyGroup>
 
   <ItemGroup>
